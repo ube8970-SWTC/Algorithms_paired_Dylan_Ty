@@ -1,4 +1,4 @@
-    """Supplied small cases for the minimum-coin investigation."""
+"""Supplied small cases for the minimum-coin investigation."""
 
 CASES = [
     {"label": "A shorter exact payment exists", "coins": [1, 4, 6], "target": 8},
