@@ -2,7 +2,7 @@
 
 import argparse
 from coin_cases import CASES
-from console_style import print_color
+from console_styles import print_color
 from investigation_support import exhaustive_change, uncached_fibonacci, cached_fibonacci, validate_n
 
 
